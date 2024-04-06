@@ -17,7 +17,7 @@
 
 - 📫 Mail me: mohamedabouassi@gmail.com
 - 📱 I'm a Flutter Mobile Application developer. 
-- 🎓 Bachelor in Computer Science.
+- 🎓 Bachelor's in Computer Science Engineering.
 - 💬 Ask me anything related to the flutter technology.
 - 👯 I’m looking to collaborate on projects that could help the community.
 
