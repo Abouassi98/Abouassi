@@ -19,7 +19,7 @@
 - 📱 I'm a Flutter Mobile Application developer. 
 - 🎓 Bachelor's in Computer Science Engineering.
 - 💬 Ask me anything related to the flutter technology.
-- 👯 I’m looking to collaborate on projects that could help the community.
+- 🤝 I’m looking to collaborate on projects that could help the community.
 
 
 ### Connect with Me :
